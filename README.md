@@ -15,10 +15,7 @@ React application that displays a list of bots for a robot army, among other fea
 ********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
-* [Framework](Framework URL)
-* Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
-* [Testing Platform](Platform URL)
+* Visual Studio Code
 
 
 ### Getting Files
@@ -57,4 +54,4 @@ Or you can access the web application directly via this [LINK.](link.com/)
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) YEAR Author
+Copyright (c) 2023 Melchizedek Maranga
